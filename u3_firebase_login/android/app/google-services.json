@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011950163646",
+    "project_id": "dam-u3",
+    "storage_bucket": "dam-u3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011950163646:android:88d925ae22c834545db0ef",
+        "android_client_info": {
+          "package_name": "cl.cybernico.u3_firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011950163646-muuilft0kv8at0m5i7dmfq1kos2j01ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-SWKyR1-UWgCQpMroDV-9hVBAfUkieqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011950163646-muuilft0kv8at0m5i7dmfq1kos2j01ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
